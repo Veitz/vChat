@@ -14,9 +14,9 @@ It included a Keyfilegenerator to generate a fresh shared Key for Server and all
 ## Build instructions  
 
 It is tested on Ubuntu 18 & 20 LTS but it should run on any platform.   
-Install the packages from the `requiremets.sh` or run it via `sudo sh requirements.sh`.    
-You can create a fresh Key with `python3 keyfilegen.py` afterward share the Keyfile with all clients and the server.    
-Change your IP's in `chatconfig.ini` and run the server `python3 chatServerEncrypted.py`.   
+Install the packages from the `requiremets.sh` or run it via `sudo sh requirements.sh`    
+You can create a fresh Key with `python3 keyfilegen.py` afterward share the Keyfile with all clients and the server,    
+change your IP's in `chatconfig.ini` and run the server `python3 chatServerEncrypted.py`.   
 Clientconnection via `python3 chatClientEncryptet.py`.
 
 ## Requirements
