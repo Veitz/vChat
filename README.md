@@ -23,7 +23,7 @@ Clientconnection via `python3 chatClientEncryptet.py`.
 
 install python3: https://www.python.org/  
 
-* `sudo apt install screen` for pip3 on Ubuntu
+* `sudo apt install screen` optional on Ubuntu
 * `sudo apt install python3-pip` for pip3 on Ubuntu
 * `pip3 install --upgrade pip`   
 * `pip3 install cryptography`   
